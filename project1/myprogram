@@ -1,0 +1,3 @@
+source virtual_env_dependencies/bin/activate
+python cs380p.py
+deactivate
